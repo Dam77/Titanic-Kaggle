@@ -46,4 +46,4 @@ Kaggle public score: 77,5 %
 
 Titanic_notebook.ipynb -> Main notebook, contains the python code.
 requirements.txt -> List of required libraries
-submissions.csv -> File submitted to Kaggle
+data/ -> contains the datasets that Kaggle gives us to realise this project
